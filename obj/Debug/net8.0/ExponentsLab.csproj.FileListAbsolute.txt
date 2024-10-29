@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\ExponentsLab\bin\Debug\net8.0\ExponentsLab.exe
+C:\Users\vedaa\source\repos\ExponentsLab\bin\Debug\net8.0\ExponentsLab.deps.json
+C:\Users\vedaa\source\repos\ExponentsLab\bin\Debug\net8.0\ExponentsLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\ExponentsLab\bin\Debug\net8.0\ExponentsLab.dll
+C:\Users\vedaa\source\repos\ExponentsLab\bin\Debug\net8.0\ExponentsLab.pdb
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.dll
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\refint\ExponentsLab.dll
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.pdb
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ExponentsLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\ExponentsLab\obj\Debug\net8.0\ref\ExponentsLab.dll
